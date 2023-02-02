@@ -1,4 +1,4 @@
-# husky_gui
+# husky_QtRos
 
 Qt/ROS GUI for a search and rescue Husky robot
 
