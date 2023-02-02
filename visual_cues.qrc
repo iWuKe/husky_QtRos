@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/visual_cue_red.gif</file>
+        <file>images/visual_cue_green.gif</file>
+        <file>images/camera_icon.jpg</file>
+    </qresource>
+</RCC>

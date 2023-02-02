@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/down.xpm</file>
+        <file>images/left.xpm</file>
+        <file>images/right.xpm</file>
+        <file>images/up.xpm</file>
+    </qresource>
+</RCC>
